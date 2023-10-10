@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 😄 Currently looking for a challenging and dynamic work environment that offers growth opportunities and professional advancement.
 
-⚡ My goal in life is to deliver quality products, services, and solutions that have an impact on everyone's lives through cutting-edge technologies.
+⚡ My goal in life is to deliver high-quality products, services, and solutions using cutting-edge technologies to deeply enhance and positively impact the lives of individuals globally.
 
 <!--[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)-->
 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 </table>  
 
 
-## Tools: 
+## 🚀 Tools: 
 
 <p>
       <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 ---
 
-## My GitHub statistics:
+## 🏆 My GitHub statistics:
 
 <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=forgionyc&show_icons=true&hide_border=true&title_color=47b5ff&icon_color=256D85&text_color=c9d1d9&bg_color=0d1117" alt="forgionyc :: Profile Stats" />
