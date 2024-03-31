@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 
 <p align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=forgionyc&show_icons=true&hide_border=true&title_color=47b5ff&icon_color=256D85&text_color=c9d1d9&bg_color=0d1117" alt="forgionyc :: Profile Stats" />
-      <img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=forgionyc&theme=black-ice&hide_border=true&stroke=06283d&background=0D1117&ring=47b5ff&fire=256d85&currStreakLabel=47b5ff"/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forgionyc&hide=css,html&layout=compact&title_color=47b5ff&bg_color=0d1117&hide_border=true&text_color=ffffff"" alt="forgionyc :: Top Langs" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=forgionyc&hide=css,html&layout=compact&title_color=47b5ff&bg_color=0d1117&hide_border=true&text_color=ffffff" alt="forgionyc :: Top Langs" />
+      <img height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=forgionyc&theme=black-ice&hide_border=true&stroke=06283d&background=0D1117&ring=47b5ff&fire=256d85&currStreakLabel=47b5ff"/>     
 </p>
 
