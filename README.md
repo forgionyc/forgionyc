@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ⚡ My goal in life is to deliver high-quality products, services, and solutions using cutting-edge technologies to deeply enhance and positively impact the lives of individuals globally.
 
-<!--[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)-->
+<!--[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:carlos.forgiony@gmail.com)-->
 
 ---
 ### :computer: Technologies:
@@ -75,6 +75,8 @@ Here are some ideas to get you started:
       <img src="http://img.shields.io/badge/-Bash-000000?style=flat&logo=gnubash&logoColor=white">
       <img src="http://img.shields.io/badge/-Terraform-FFFFFF?style=flat&logo=terraform&logoColor=purple">
       <img src="http://img.shields.io/badge/-Docker-FFFFFF?style=flat&logo=docker&logoColor=blue">
+      <img src="http://img.shields.io/badge/-Amazon Web Services-FFFFFF?style=flat&logo=amazonaws&logoColor=orange">
+      <img src="http://img.shields.io/badge/-Microsoft Azure-FFFFFF?style=flat&logo=microsoftazure&logoColor=blue">
 </p>
 
 ---
