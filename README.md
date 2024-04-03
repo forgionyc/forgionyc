@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3>About me🌱: </h3>
 
-💬 Welcome to my GitHub profile! I am an enthusiastic individual with a strong foundation in accounting and a big passion for programming and information technologies. Excited to embark on a career transition into the field of Information Technology (IT). Here, you will find information about my journey, skills, and projects as I strive to combine my financial acumen with technical expertise.
+💬 Welcome to my GitHub profile! I am an enthusiastic individual with a strong foundation in Software Development and accounting. Currently embarked on a career transition into the field of Information Technology (IT). Here, you will find information about my journey, skills, and projects as I strive to combine my financial acumen with technical expertise.
 
 😎 I am committed to continuous learning and self-improvement. My primary goal is to secure a programming role where I can apply my programming and problem-solving skills effectively. I am eager to continue learning and growing in this field, and I am open to opportunities in areas such as web development, data analysis, and software development.
 
